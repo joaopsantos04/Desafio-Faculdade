@@ -1,5 +1,6 @@
 package com.example.universitysystem.controller;
 
+
 import com.example.universitysystem.model.Curso;
 import com.example.universitysystem.model.Departamento;
 import com.example.universitysystem.repository.DepartamentoRepository;
